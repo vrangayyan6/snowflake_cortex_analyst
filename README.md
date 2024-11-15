@@ -1,3 +1,7 @@
-# sfguide-getting-started-with-cortex-analyst
+# Snowflake Gen AI Chatbot
 
-This is the source code repository for the accompanying [Getting Started with Cortex Analyst](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_analyst/index.html) Quickstart which is available on [quickstarts.snowflake.com](https://quickstarts.snowflake.com). Please refer to the quickstart for full instructions on how to use this repository.
+- [Getting Started with Cortex Analyst: Augment BI with AI](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_analyst/index.html)
+
+- [Build a Retrieval Augmented Generation (RAG) based LLM assistant using Streamlit and Snowflake Cortex Search](https://quickstarts.snowflake.com/guide/ask_questions_to_your_own_documents_with_snowflake_cortex_search/index.html)
+
+Quickstarts available on [quickstarts.snowflake.com](https://quickstarts.snowflake.com). 
